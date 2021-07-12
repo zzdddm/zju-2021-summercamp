@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo"HelloWorld"</string>
+    <string name="botton1">改变文字~</string>
+    <string name="change1">What A Day?</string>
+    <string name="tv2">选择A或B</string>
+    <string name="tv3">猜猜这里有什么？</string>
+
+</resources>
