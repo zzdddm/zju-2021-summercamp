@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chpt2Demo</string>
+    <string name="mainBtn1">练习场景</string>
+    <string name="mainBtn2">百度页面</string>
+    <string name="mainBtn3">电话拨号页面</string>
+    <string name="username">by:zzdddm</string>
+    <string name="act1">MyActivity</string>
+</resources>
